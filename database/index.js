@@ -1,5 +1,8 @@
 //AUTHOR: JOSHUA MEDINA
 //NETID: JAM874
+//Index.js functions as the startup for our mock webstore app.
+//In the following code you will find the routing, configuration of modules, and
+//intialization of the database used for the application.
 
 const express = require('express');
 
