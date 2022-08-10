@@ -1,4 +1,4 @@
-#Namazon Project
+# Namazon Project
 
 RESTful API that emulates a customer to online store interaction.<br />
 **GET**, **POST**, and **DELETE** requests can be made.<br />
