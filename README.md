@@ -17,3 +17,5 @@ Requests can be made to:<br />
 The schemas model the carts, cartItems, storeItems, and the users.<br />
 
 database contains schemas and our index.js file.
+
+Author: Joshua Medina
